@@ -92,4 +92,4 @@
 - **Database Administrator**
 - **Science and Optimization**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/profile/andyjeon1108) or check out my projects here on GitHub!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andyjeon1108/) or check out my projects here on GitHub!
